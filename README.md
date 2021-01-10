@@ -4,6 +4,11 @@ Have you ever wished to unsend an insulting comment? Have you ever asked yoursel
 We got inspired by an article  from Plan international Canada that opened our eyes on the Cyberbullying problem. It continues to be a serious issue affecting the mental health of teens, young adults and especially girls. So, we thought it would be a great idea if there was an extension that reminded users to be mindful and reflective when they are about to send an insulting comment/message. <br>
  [Article- Impact of cyberbullying on girls lives in canada](https://stories.plancanada.ca/data-reveals-impact-of-cyberbullying-on-girls-lives-in-canada/)
 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jsrcYxKiuBA"><img src="https://img.youtube.com/vi/jsrcYxKiuBA/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 ## Screenshots
 
 
