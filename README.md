@@ -36,7 +36,7 @@ Sometimes a user may type something which may be offensive but don't realize it.
 ## How we built it
 We built it with love and programming languages!
 * It is easily scalable to different platforms and browsers as we are using React Framework which is widely used everywhere. 
-* For the backend and collecting data we used Javascript , for creating UI we used HTML. 
+* For the backend and collecting data we used Javascript , for creating UI we used HTML and CSS. 
 * For Sentiment Analysis we have used Google Cloud NLP API.
 
 
