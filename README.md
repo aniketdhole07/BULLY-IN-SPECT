@@ -1,3 +1,68 @@
+## Inspiration
+Have you ever wished to unsend an insulting comment? Have you ever asked yourself whether what you sent was actually rude? Or are you just an older sibling who wants their younger brother or sister to treat everyone with respect, especially over the internet? <br>
+
+We got inspired by an article  from Plan international Canada that opened our eyes on the Cyberbullying problem. It continues to be a serious issue affecting the mental health of teens, young adults and especially girls. So, we thought it would be a great idea if there was an extension that reminded users to be mindful and reflective when they are about to send an insulting comment/message. <br>
+ [Article- Impact of cyberbullying on girls lives in canada](https://stories.plancanada.ca/data-reveals-impact-of-cyberbullying-on-girls-lives-in-canada/)
+
+## Screenshots
+
+<img src="https://i.ibb.co/t4VqXp0/Screenshot-from-2021-01-11-00-04-51.png" alt="Screenshot-from-2021-01-11-00-04-51" border="0">
+
+<img src="https://i.ibb.co/SvqYrmR/Screenshot-from-2021-01-11-00-28-10.png" alt="Screenshot-from-2021-01-11-00-28-10" border="0">
+
+<img src="https://i.ibb.co/rbH4hBm/Screenshot-from-2021-01-10-23-11-47.png" alt="Screenshot-from-2021-01-10-23-11-47" border="0">
+
+## What it does
+"BULLY-IN-SPECT" is a chrome extension that detects what user is currently typing, analyzes the text, and detects if there is any hate or offensive speech.  
+* If so, a pop-up box will appear to warn the user to be careful and to take a moment to reflect before sending the message..
+* It also Scans the Website you are visiting and warn if it contains any offensive words
+
+This extension can benefit Teachers, parents, and social media users when they want their students, children, or they themselves want to practice to be responsible and sensible internet users.
+Sometimes a user may type something which may be offensive but don't realize it. Our project notifies the user whether something they typed is offensive or not.
+
+## How we built it
+We built it with love and programming languages!
+* It is easily scalable to different platforms and browsers as we are using React Framework which is widely used everywhere. 
+* For the backend and collecting data we used Javascript , for creating UI we used HTML. 
+* For Sentiment Analysis we have used Google Cloud NLP API.
+
+
+## Challenges we ran into
+
+With a new project, new challenges come!
+Some of the challenges we encountered during the Hackathon were
+1. How to create a Google Extension
+2. Connect Extension with Google Cloud; authenticate
+3. Accuracy issue with API
+4. Collection of User's Data
+5. Handling React Hooks State
+
+## Accomplishments that we're proud of
+
+- I teamed-up with total strange participants and they end up being amazing and creative people!
+- I am proud to keep learning about many new things during the Hackathon.
+- Able to build a functional extension!
+
+
+## What we learned
+
+- We learned to create a **Google Chrome Extension**
+- We learned about the latest technologies from Daniel and Aniket. Such as: Google Cloud, API, Authentications, and React.
+- It was great working with participants from different timezones and trying to create such a project in 24 Hour TimeLimit
+
+## What's next for Bully-in-spect
+
+We would like to go bigger and implement this extension to other larger browser platforms such as safari and firefox and social media platforms (where bullying incidents occur more readily). We would love to create it as an Android-App with extra features:
+
+- Parental restrictions
+- Highlights the offensive words
+- Show words suggestions for the insulting comments
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
