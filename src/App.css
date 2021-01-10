@@ -1,0 +1,70 @@
+html {
+	 width: 100%;
+}
+ body {
+	 margin: 0px;
+	 height: 400px;
+	 width: 400px;
+	 background: white;
+}
+ body .header {
+	 width: 400px;
+	 height: 50px;
+	 margin: 0px;
+	 background-color:rgba(255, 146, 4, 0.863);
+	 padding: 12px 0px;
+}
+ body .header h1 {
+	 font-size: 30px;
+	 opacity: 0.9;
+	 margin: 0px 4px 0px 4px;
+	 font-weight: 500;
+}
+ body .header p {
+	 margin: 0px 4px;
+	 font-weight: 400;
+	 font-size: 14px;
+}
+
+ body .footer {
+	 width: 400px;
+	 height: 40px;
+	 margin: 0px;
+	 background-color: rgba(255, 146, 4, 0.863);
+	 padding: 6px 0px;
+	 text-align: center;
+}
+ body .footer a {
+	 text-decoration: none;
+}
+ body .contentBox {
+	 width: 400px;
+	 height: 310px;
+}
+body .contentBox .resalted {
+	background-color: rgba(255, 146, 4, 0.863);
+	text-decoration: underline;
+}
+ body .contentBox .resalted1 {
+	 background-color: rgba(255, 125, 4, 0.863);
+	 text-decoration: underline;
+}
+body .contentBox .resalted2 {
+	background-color: rgba(4, 255, 130, 0.863);
+	text-decoration: underline;
+}
+body .contentBox .resalted3 {
+	 background-color: rgba(4, 226, 255, 0.863);
+	 text-decoration: underline;
+}
+ body .contentBox .pattern {
+	 margin: 0 10px;
+	 text-align: center;
+	 font-size: 14px;
+	 position: relative;
+	 top: 50%;
+	 transform: translateY(-50%);
+}
+ body .contentBox .pattern a {
+	 text-align: right;
+}

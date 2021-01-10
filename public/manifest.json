@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "BULLY-IN-SPECT",
+  "author": "Katie,Bayan,Daniel,Aniket",
+  "version": "1.0.0",
+  "description": "Extension to filter offensive speech",
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  },
+  "browser_action": {
+    "default_icon": "logo192.png",
+    "default_popup": "index.html"
+},
+"background": {
+  "scripts": ["background.js"],
+  "persistent": true
+},
+"content_scripts": [
+  {
+  "matches": ["<all_urls>"],
+  "js": ["contentscript.js"]
+  }
+],
+  "permissions": [
+    "storage",
+    "activeTab",
+    "tabs",
+     "<all_urls>"
+  ]
+}
